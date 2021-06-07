@@ -1,0 +1,21 @@
+Yelp Web Scraper - Python
+June 7, 2021 Changelogs
+Fixed bugs:
+- Highest rated, Most Reviewed Not Showing Data (Blank Data)  
+
+
+Changed:
+- Changed Scraped Data structures/texts (Removed unnecessary/redundant texts) 
+- Changed Csv Filename to: {Sort by} + {find} + {near}.csv | Ex. Highest Rated Restaurants in Cavite
+
+
+Added Functions:
+- Initialized Headless Browser for Optimized Scraping
+- Added Status Notification | Ex. Loading... Searching... 
+- Added an option to repeat scraping
+- Added find/location input error (No Search Results, Error Message, No Scraped Data, No Csv File Generated)
+- Added Distance Filter (Starting point is the input location)
+
+
+
+
