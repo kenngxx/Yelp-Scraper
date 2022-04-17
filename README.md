@@ -4,11 +4,11 @@
 
 ## Features
 ### Scrapes:
--  *BUSINESS NAME - THE NAME OF THE BUSINESS*
+- *BUSINESS NAME - THE NAME OF THE BUSINESS*
 - *CATEGORY - CATEGORY OF GOODS OR SERVICES PROVIDED*
 - *CUSTOMER/CLIENT AVERAGE RATING - THE AVERAGE STAR RATING BASED ON CUSTOMER/CLIENT FEEDBACKS OR REVIEWS*
 - *NUMBER OF CUSTOMER/CLIENT REVIEWS - THE NUMBER OF CUSTOMER/CLIENT FEEDBACKS OR REVIEWS*
--  *PRICE RANGE - THE PRICE RANGE OF GOODS OR SERVICES*
+- *PRICE RANGE - THE PRICE RANGE OF GOODS OR SERVICES*
 - *BUSINESS PHONE NUMBER - THE CONTACT NUMBER OF THE BUSINESS ESTABLISHMENT*
 - *BUSINESS ADDRESS - THE ADDRESS WHERE THE BUSINESS ESTABLISHMENT IS LOCATED.*
 ### Save:
@@ -29,13 +29,14 @@
 
 ### Standalone Executable File
 > If you do not want to install Python IDEs, and python packages, you can download the provided Standalone Executable File [here](https://github.com/gnsslrrcs/dlsud-cpse325-2021/raw/major-exam/scraping/Yelp/Yelp%20Scraper.exe)
-> Just make sure that you have installed the WebDriver and added it to your System Path.
-> Watch [this video](https://dlsudphl-my.sharepoint.com/:v:/g/personal/gka1871_dlsud_edu_ph/EQ3yM2QJnx1AgVEoBC811v8BXi8t1cx4fVzM1KJ0EG68ZA?e=GMJ9Bg) of scraping data using the standalone Executable File
+> 
+> Make sure that you have installed the WebDriver and added it to your System Path.
 ## Usage Instructions:
 *There are 3 User Inputs:*
 - *Find - Enter What you are looking For (e.g. Restaurants, Hotels, Resorts)*
 - *Near - Enter your Desired Location or Area of your Search*
 - *Sort - Sort the List by Entering: **1** for Recommended (Default), **2** for Highest Rated, **3** for Most Reviewed)*
+- *Filter - Filters the search result by distance.*
 
 ### Disclaimer:
 **Yelp Web Scraper** is for educational purposes only.
