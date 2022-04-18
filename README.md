@@ -1,4 +1,4 @@
-# Yelp Web Scraper - Python
+# Yelp Web Scraper - Python (Outdated)
 
 **Yelp Web Scraper** is a python-based Data scraping tool that scrapes data from [yelp](https://www.yelp.com/) using [Selenium](https://www.selenium.dev). 
 
